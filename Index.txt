@@ -1,0 +1,117 @@
+Learn Cloud Computing Concepts and AWS Basics
+=============================================
+
+https://optionsit.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/learn/lecture/34365614#overview
+
+
+Section 1 : Lets Get started  10 min
+1. Introduction to the Course 2 min 
+2. Demo: Let's See AWS in Action! 4 min 
+3. Hands-On Practice: Free Tier vs Sandbox 3 min 
+4. Course Download 1 min
+
+Section 2 : Create Free tier Accounts in AWS  20 min
+5. Introduction 1 min 
+6. AWS Account Overview 2 min 
+7. [HOL] Create your AWS Free Tier Account 6 min 
+8. [HOL] Configure Account and Create a Bud get and Alarm 5 min 
+9. [HOL] Install Tools 6 min 
+
+Section 3 : IT Fundamentals 35 min
+10. Introduction 2 min 
+11. Client - Server Computing 9 min 
+12. Storage - Block vs File vs Object 7 min 
+13. IP Addresses and DNS 7 min 
+14. Bandwidth and Latency 3 min 
+15. Networking - Routers, Switches and Firewalls 5 min 
+16. Application Program min g Interfaces (APIs) 3 min 
+
+Section 4 : Cloud Computing concepts 30 min
+17. Introduction 1 min 
+18. Legacy IT / Traditional IT 3 min 
+19. What is Cloud Computing? 6 min 
+20. Cloud Computing Service Models 4 min 
+21. Cloud Computing Deployment Models 5 min 
+22. Scaling Up vs Scaling Out 3 min 
+23. High Availability and Fault Tolerance 3 min 
+24. Monolithic and Microservices Architectures 4 min 
+
+Section 5 :  AWS Access Control and Networking 52 min
+25. Introduction 1 min 
+26. Amazon Web Services Overview 7 min 
+27. IAM Overview 4 min 
+28. [HOL] Create an IAM User and Group 3 min 
+29. Amazon Virtual Private Cloud (VPC)  6 min 
+30. [HOL] Create a Custom VPC 14 min 
+31. Security Groups and Network ACLs 6 min 
+32. [HOL] Create a Security Group 5 min 
+33. [HOL] Configure the AWS CLI 7 min 
+
+Section 6 : Amazon EC2, Auto Scaling and Load balancing 1 hr 8 min
+34. Introduction 1 min 
+35. Amazon EC2 Overview 6 min 
+36. [HOL] Launching Amazon EC2 Instances 9 min 
+37. [HOL] Connecting to Amazon EC2 7 min 
+38. Access Keys and IAM Roles with EC2 4 min 
+39. [HOL] Practice with Access Keys and IAM Roles 8 min 
+40. [HOL] Create a Website with User Data 6 min 
+41. Amazon EC2 Auto Scaling 2 min 
+42. [HOL] Create an Auto Scaling Group 6 min 
+43. [HOL] Create a Scaling Policy 6 min 
+44. Amazon Elastic Load Balancing 6 min 
+45. [HOL] Create an Application Load Balancer 7 min 
+
+Section 7 : AWS Storage Services 52 min
+46. Introduction 1 min 
+47. Amazon EBS and Instance Stores 7 min 
+48. [HOL] Create and Attach an EBS Volume 5 min 
+49. [HOL] EBS Snapshots and AMIs 8 min 
+50. Amazon Elastic File System (EFS) 2 min 
+51. [HOL] Create an Amazon EFS Filesystem 10 min 
+52. Amazon Simple Storage Service (S3) 7 min 
+53. [HOL] Working with S3 Buckets and Objects 9 min 
+54. [HOL] Create an S3 Static Website 4 min 
+
+Section 8 : AWS Database Services 26 min
+55. Introduction 1 min 
+56. Amazon Relational Database Service (RDS) 5 min 
+57. [HOL] Create an Amazon RDS Database 8 min 
+58. [HOL] Add an Amazon RDS Read Replica 4 min 
+59. Amazon DynamoDB 3 min 
+60. [HOL] Create an Amazon DynamoDB Table 6 min 
+
+Section 9 : Automation and DevOps on AWS 38 min
+61. Infrastructure as Code with AWS CloudFormation 3 min 
+62. [HOL] Creating and Updating Stacks 6 min 
+63. [HOL] Deploy a VPC Using CloudFormation 6 min 
+64. Platform as a Service with AWS Elastic Beanstalk 3 min 
+65. [HOL] Create an Elastic Beanstalk Application 8 min 
+66. Continuous Integration and Continuous Delivery (CI/CD) 3 min 
+67. [HOL] Create an AWS CodeCommit Repository 4 min 
+68. [HOL] AWS CodePipeline with AWS Elastic Beanstalk 6 min 
+
+Section 10 : DNS, Caching and Performance Optimization 27 min
+69. Introduction 1 min 
+70. Amazon Route 53 DNS 5 min 
+71. [HOL] Register a Domain using Route 53 6 min 
+72. Amazon CloudFront 2 min 
+73. [HOL] Create an Amazon CloudFront Distribution 8 min 
+74. AWS Global Accelerator 4 min
+ 
+Section 11 :  Containers and Serverless Computing 49 min
+75. Introduction 1 min 
+76. Docker Containers on Amazon ECS 5 min 
+77. [HOL] Create an AWS Fargate Cluster 6 min 
+78. Serverless with AWS Lambda 4 min 
+79. [HOL] Create an AWS Lambda Function 6 min 
+80. Application Integration Services 7 min 
+81. [HOL] Create a Serverless Application 7 min 
+82. Amazon EventBridge 2 min 
+83. Amazon API Gateway 5 min 
+84. [HOL] Create a REST API with Lambda Proxy Integration 5 min 
+
+Section 12 : Get Certified AWS 9 min
+85. Introduction 1 min 
+86. The AWS Certification Paths 7 min 
+Start
+87. Bonus Lesson 2 min 
